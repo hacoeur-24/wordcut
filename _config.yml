@@ -1,3 +1,19 @@
 theme: jekyll-theme-minimal
 title: Wordcut Game
 description: Confidentiality
+
+exclude:
+  - README.md
+
+plugins:
+  - jekyll-redirect-from
+
+defaults:
+  - scope:
+      path: "en"
+    values:
+      lang: "en"
+  - scope:
+      path: "fr"
+    values:
+      lang: "fr"
