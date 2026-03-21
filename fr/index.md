@@ -4,7 +4,7 @@ title: Wordcut Game - Politique de confidentialité
 lang: fr
 ---
 
-**Français** | [English](/en/)
+**Français** | [English](/wordcut/en/)
 
 # Jeu WordCut
 

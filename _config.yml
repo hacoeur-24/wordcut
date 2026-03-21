@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Wordcut Game
 description: Confidentiality
+baseurl: /wordcut
 
 exclude:
   - README.md

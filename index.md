@@ -1,3 +1,3 @@
 ---
-redirect_to: /en/
+redirect_to: /wordcut/en/
 ---
